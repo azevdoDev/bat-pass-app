@@ -11,7 +11,7 @@ const styles = StyleSheet.create({
     },
     logoContainer:{
       flexDirection: 'column',
-      borderColor: '#FFFFF',
+      borderColor: 'white',
       borderWidth: 2,
       justifyContent: 'center',
       alignSelf: 'center',
@@ -19,6 +19,11 @@ const styles = StyleSheet.create({
       paddingTop: 20,
       paddingBottom: 10,
       backgroundColor: '#4D4D4D'
+    },
+    inputContainer:{
+      width: '80%',
+      flexDirection: 'column',
+      alignItems: 'center',
     }
   });
 
