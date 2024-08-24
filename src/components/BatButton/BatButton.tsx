@@ -21,13 +21,13 @@ export function BatButton() {
         <Pressable
         style={styles.button}
         onPress={handleGenerateButton}>
-        <Text style={styles.text}>GENERATE</Text>
+        <Text style={styles.text}>GENERATE 🔑</Text>
         </Pressable>
 
         <Pressable
         style={styles.button}
         onPress={handleCopyButton}>
-        <Text style={styles.text}>COPY 🤩</Text>
+        <Text style={styles.text}>COPY 💬</Text>
         </Pressable>
     </>
   );

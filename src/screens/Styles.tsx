@@ -5,7 +5,7 @@ import {StyleSheet} from 'react-native';
 const styles = StyleSheet.create({
     appContainer: {
       flex: 1,
-      backgroundColor: '#333333',
+      backgroundColor: '#19191C',
       alignItems: 'center',
       justifyContent: 'center',
     },
@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
       marginBottom: 60,
       paddingTop: 20,
       paddingBottom: 10,
-      backgroundColor: '#4D4D4D'
+      backgroundColor: '#343447'
     },
     inputContainer:{
       width: '80%',

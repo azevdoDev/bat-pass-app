@@ -10,7 +10,7 @@ button:{
     paddingHorizontal: 32,
     borderRadius: 4,
     elevation: 3,
-    backgroundColor: 'black',
+    backgroundColor: '#40409C',
 
 
   },
@@ -19,6 +19,6 @@ button:{
     lineHeight: 21,
     fontWeight: 'bold',
     letterSpacing: 0.25,
-    color: '#E5BF3C'
+    color: 'white'
   }
 });
